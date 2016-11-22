@@ -1,0 +1,32 @@
+<h2 class="page-header">Weather station</h2>
+
+<b>Time updated:</b> {{ time_updated }}<br><br>
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+		  <tr>
+		    <th>Temp (°C)</th>
+            <th>Humidity (%)</th>
+			<th>Barometer (hPa)</th>
+			<th>Wind direction (degrees)</th>
+			<th>Wind speed (m/s)</th>
+          </tr>
+        </thead>
+		
+        <tbody>
+		  <tr>
+		    <td>20</td>
+            <td>71</td>
+            <td>1010</td>
+            <td>244</td>
+            <td>2</td>
+			<!--<td>{{ x.Name }}</td>
+			<td>{{ x.Country }}</td>-->
+		  </tr>
+        </tbody>
+    </table>
+</div>
+
+Weather information will be shown here shortly.<br>
+<b>Current status:</b> {{ status }}
