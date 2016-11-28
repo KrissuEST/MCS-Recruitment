@@ -1,0 +1,7 @@
+{
+  [{"ID":"temp","NAME":"Temperatuur","UNIT":"&deg;C","VALUE":0.68},
+   {"ID":"humid","NAME":"Niiskus","UNIT":"%","VALUE":91.3333333333},
+   {"ID":"baro","NAME":"&Otilde;hur&otilde;hk","UNIT":"hPa","VALUE":1023.305},
+   {"ID":"wind_dir","NAME":"Tuule suund","UNIT":"&deg;","VALUE":193.421306304163},
+   {"ID":"wind_len","NAME":"Tuule kiirus","UNIT":"m/s","VALUE":3.89255716881589}]
+}
